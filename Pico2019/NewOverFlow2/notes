@@ -1,0 +1,6 @@
+vuln return addr: 0x00000000004008cd
+win1 func addr: 0x00400767, wants 0xDEADBEEF
+win2 func addr: 0x00400781, wants 0xBADCAFE , 0xCAFEBABE , 0x ABADBABE
+(kinda inapporpriate)
+
+final flag addr: 0x0040084d
